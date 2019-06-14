@@ -1,5 +1,7 @@
 # blog
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1be05db6d41d4a5f966851b9d3bd5fe3)](https://app.codacy.com/app/mkblgnj/Campus_Connect?utm_source=github.com&utm_medium=referral&utm_content=mkblgnj/Campus_Connect&utm_campaign=Badge_Grade_Dashboard)
+
 A new Flutter application.
 
 ## Getting Started
